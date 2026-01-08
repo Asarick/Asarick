@@ -1,4 +1,4 @@
-# 👨‍💻 Derrick Omondi | Frontend Developer
+# 👨‍💻 Derrick Omondi | Fullstack Developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=asarick&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/asarick)
 [![Email](https://img.shields.io/badge/Email-derrickomondi208%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:derrickomondi208@gmail.com)
